@@ -1,0 +1,6 @@
+1- Clone the Mask_RCNN repo from : https://github.com/matterport/Mask_RCNN.git
+2- Download COCO pretrained weights from: https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+2- Make sure you have tensorflow==1.14.0 and keras=2.0.8 
+3- Download the trained weights from: https://drive.google.com/drive/folders/1SgObQo7VBejDgAYn9AThbwnase4po4Ja?usp=sharing
+5- Download Dataset from: https://drive.google.com/drive/folders/1YmQ_CQ2rtMmSXpi_pDQUrJw6xK4ve8g9?usp=sharing
+6- In the notebook goto the Predicting from trained models and update your weights and images path accordingly and run
